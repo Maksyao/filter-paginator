@@ -1,0 +1,33 @@
+{
+  "name": "example",
+  "version": "0.1.0",
+  "private": true,
+  "main": "src/index.tsx",
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "1.2.32",
+    "@fortawesome/free-solid-svg-icons": "5.15.1",
+    "@fortawesome/react-fontawesome": "0.1.13",
+    "@types/react-router-dom": "5.1.6",
+    "@vtaits/filterlist": "0.2.2",
+    "@vtaits/react-filterlist": "0.3.0",
+    "@vtaits/react-paginator": "0.2.0",
+    "faker": "5.1.0",
+    "qs": "6.9.4",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-router-dom": "5.2.0",
+    "react-scripts-ts": "^2.13.0",
+    "styled-components": "5.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "typescript": "^3.8.3"
+  },
+  "keywords": [],
+  "description": ""
+}

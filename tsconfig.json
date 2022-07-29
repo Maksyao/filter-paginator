@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "outDir": "build/dist",
+    "jsx": "react",
+    "rootDir": "src",
+    "esModuleInterop": true,
+    "isolatedModules": true
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    "scripts",
+    "acceptance-tests",
+    "webpack"
+  ]
+}
